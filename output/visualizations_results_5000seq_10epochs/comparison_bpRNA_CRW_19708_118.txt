@@ -1,0 +1,8 @@
+RNA Sequence ID: bpRNA_CRW_19708
+Length: 118 nt
+
+Sequence: AUCCACGGCCAUAGCCUUCAUAGAGCACCCUGCCCCGUCCGAUCCAGGAAGUUAAGCUGAACAGCGCUCGGUUAGUACCACGGUGGGGGACCACGUGGGAAUCCCGGGUGCCGUGGUU
+
+Ground Truth:   (((((((((....((((((((....(((((((............))))..)))...)))))).)).(((((......(((((.(((....)))))))).....))))).)))))))))
+ViennaRNA:      ..(((((((....((((....)).))..((((............)))).......(((....)))((((((......(((((.(((....)))))))).....)))))))))))))..
+GCNFold:        ..(((((((....)))((((.).((((.(()))(.(.(..).....))).).)..(()))...))((((((...((.(((((.(((....))))))))..)).))))))...))))..

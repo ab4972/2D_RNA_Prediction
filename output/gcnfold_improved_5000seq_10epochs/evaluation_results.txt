@@ -1,0 +1,56 @@
+GCNFold Improved Evaluation Results
+==================================
+
+Date: 2025-05-06 05:43:14
+Device: cpu
+
+Training Results:
+  Epoch 1 loss: 0.166457
+  Epoch 2 loss: 0.133230
+  Epoch 3 loss: 0.131466
+  Epoch 4 loss: 0.130971
+  Epoch 5 loss: 0.130068
+  Epoch 6 loss: 0.129492
+  Epoch 7 loss: 0.129049
+  Epoch 8 loss: 0.127940
+  Epoch 9 loss: 0.127489
+  Epoch 10 loss: 0.127070
+  Epoch 11 loss: 0.126659
+  Epoch 12 loss: 0.126313
+  Epoch 13 loss: 0.125982
+  Epoch 14 loss: 0.125663
+  Epoch 15 loss: 0.125454
+  Epoch 16 loss: 0.125329
+  Epoch 17 loss: 0.125043
+  Epoch 18 loss: 0.124938
+  Epoch 19 loss: 0.124666
+  Epoch 20 loss: 0.124325
+
+Evaluation Metrics:
+  Training Set:
+    Loss: 0.072184
+    Accuracy: 0.9926
+    Precision: 0.4157
+    Recall: 0.7593
+    F1 Score: 0.5373
+    ROC-AUC: 0.9551
+    PR-AUC: 0.6538
+
+  Validation Set:
+    Loss: 0.074755
+    Accuracy: 0.9930
+    Precision: 0.4423
+    Recall: 0.8002
+    F1 Score: 0.5697
+    ROC-AUC: 0.9491
+    PR-AUC: 0.6671
+
+  Test Set:
+    Loss: 0.074459
+    Accuracy: 0.9926
+    Precision: 0.4307
+    Recall: 0.7787
+    F1 Score: 0.5546
+    ROC-AUC: 0.9407
+    PR-AUC: 0.6516
+

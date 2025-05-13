@@ -1,0 +1,8 @@
+RNA Sequence ID: bpRNA_RFAM_23109
+Length: 88 nt
+
+Sequence: UUCGCCUUUUCGAGGCGAUCUGCUAAACACAUCCGCGCGCAGGUCCGGCGCUCGAUCGGGCCCACUCCAGAAGGAGUGUCCCAGCGCG
+
+Ground Truth:   .(((((.......))))).................(((((.(((((((.......)))))))..(((((....))))).....)))))
+ViennaRNA:      .(((((((...))))))).................(((((.((((((((....).)))))))((((((....)))))).....)))))
+GCNFold:        .(((((((...)))))))(((((..........((((()))))((((((....).)))))..((((((....)))))).....)))))

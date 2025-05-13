@@ -1,0 +1,8 @@
+RNA Sequence ID: bpRNA_CRW_18758
+Length: 36 nt
+
+Sequence: GGGUGACCUCCUGGGAAGUCCUCGUGUUGCAUCCCC
+
+Ground Truth:   ((....))............................
+ViennaRNA:      (((((.(..((.(((....))).).)..))))))..
+GCNFold:        (((((.(..((.(((....))).).)..))))))..
