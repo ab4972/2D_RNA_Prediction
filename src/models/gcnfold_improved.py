@@ -1,5 +1,5 @@
 """
-GCNFold Improved - A more faithful implementation of the GCNFold model described in:
+GCNFold Improved - An implementation of the GCNFold model described in:
 'RNA Secondary Structure Prediction By Learning Unrolled Algorithms' (Zhang et al. 2020)
 but adapted to use RNA-FM embeddings instead of one-hot encodings.
 
